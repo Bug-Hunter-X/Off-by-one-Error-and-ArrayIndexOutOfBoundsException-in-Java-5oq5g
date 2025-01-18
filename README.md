@@ -1,0 +1,1 @@
+This repository demonstrates two common errors in Java: an off-by-one error and an ArrayIndexOutOfBoundsException. The file "BuggyArray.java" contains the buggy code, while "FixedArray.java" provides the corrected version.  The error occurs due to an incorrect loop condition and attempting to access an array element beyond its valid index.
